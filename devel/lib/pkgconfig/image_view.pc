@@ -1,0 +1,8 @@
+prefix=/home/zb/catkin_ws_yolact/devel
+
+Name: image_view
+Description: Description of image_view
+Version: 1.12.23
+Cflags: -I/home/zb/catkin_ws_yolact/devel/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure

@@ -1,0 +1,8 @@
+prefix=/home/zb/catkin_ws_yolact/install
+
+Name: catkin_simple
+Description: Description of catkin_simple
+Version: 0.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: catkin

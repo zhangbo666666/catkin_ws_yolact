@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: /home/zb/catkin_ws_yolact/src/rviz_visual_tools-kinetic-devel
+# Build directory: /home/zb/catkin_ws_yolact/build/rviz_visual_tools-kinetic-devel
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_rviz_visual_tools_rostest_launch_rvt_test.launch "/home/zb/catkin_ws_yolact/build/catkin_generated/env_cached.sh" "/usr/bin/python2" "/opt/ros/melodic/share/catkin/cmake/test/run_tests.py" "/home/zb/catkin_ws_yolact/build/test_results/rviz_visual_tools/rostest-launch_rvt_test.xml" "--return-code" "/usr/bin/python2 /opt/ros/melodic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/zb/catkin_ws_yolact/src/rviz_visual_tools-kinetic-devel --package=rviz_visual_tools --results-filename launch_rvt_test.xml --results-base-dir \"/home/zb/catkin_ws_yolact/build/test_results\" /home/zb/catkin_ws_yolact/src/rviz_visual_tools-kinetic-devel/launch/rvt_test.launch ")
+set_tests_properties(_ctest_rviz_visual_tools_rostest_launch_rvt_test.launch PROPERTIES  _BACKTRACE_TRIPLES "/opt/ros/melodic/share/catkin/cmake/test/tests.cmake;160;add_test;/opt/ros/melodic/share/rostest/cmake/rostest-extras.cmake;52;catkin_run_tests_target;/opt/ros/melodic/share/rostest/cmake/rostest-extras.cmake;80;add_rostest;/opt/ros/melodic/share/rostest/cmake/rostest-extras.cmake;100;_add_rostest_google_test;/home/zb/catkin_ws_yolact/src/rviz_visual_tools-kinetic-devel/CMakeLists.txt;132;add_rostest_gtest;/home/zb/catkin_ws_yolact/src/rviz_visual_tools-kinetic-devel/CMakeLists.txt;0;")

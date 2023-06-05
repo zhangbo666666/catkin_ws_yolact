@@ -1,0 +1,8 @@
+prefix=/home/zb/catkin_ws_yolact/install
+
+Name: orb_slam2_lib
+Description: Description of orb_slam2_lib
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lorb_slam2_lib
+Requires: 

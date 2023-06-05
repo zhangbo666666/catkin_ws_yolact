@@ -1,0 +1,8 @@
+prefix=/home/zb/catkin_ws_yolact/devel
+
+Name: orb_slam2_ros
+Description: Description of orb_slam2_ros
+Version: 0.0.0
+Cflags: -I/home/zb/catkin_ws_yolact/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

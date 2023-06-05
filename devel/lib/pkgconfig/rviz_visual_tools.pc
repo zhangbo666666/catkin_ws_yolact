@@ -1,0 +1,8 @@
+prefix=/home/zb/catkin_ws_yolact/devel
+
+Name: rviz_visual_tools
+Description: Description of rviz_visual_tools
+Version: 3.6.0
+Cflags: -I/home/zb/catkin_ws_yolact/src/rviz_visual_tools-kinetic-devel/include
+Libs: -L${prefix}/lib -lrviz_visual_tools -lrviz_visual_tools_gui -lrviz_visual_tools_remote_control -lrviz_visual_tools_imarker_simple
+Requires: eigen_conversions geometry_msgs visualization_msgs graph_msgs std_msgs tf_conversions trajectory_msgs sensor_msgs roscpp

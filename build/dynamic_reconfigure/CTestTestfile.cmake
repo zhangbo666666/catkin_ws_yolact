@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: /home/zb/catkin_ws_yolact/src/dynamic_reconfigure
+# Build directory: /home/zb/catkin_ws_yolact/build/dynamic_reconfigure
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_ddynamic_reconfigure_rostest_test_ddynamic_reconfigure.test "/home/zb/catkin_ws_yolact/build/catkin_generated/env_cached.sh" "/usr/bin/python2" "/opt/ros/melodic/share/catkin/cmake/test/run_tests.py" "/home/zb/catkin_ws_yolact/build/test_results/ddynamic_reconfigure/rostest-test_ddynamic_reconfigure.xml" "--return-code" "/usr/bin/python2 /opt/ros/melodic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/zb/catkin_ws_yolact/src/dynamic_reconfigure --package=ddynamic_reconfigure --results-filename test_ddynamic_reconfigure.xml --results-base-dir \"/home/zb/catkin_ws_yolact/build/test_results\" /home/zb/catkin_ws_yolact/src/dynamic_reconfigure/test/ddynamic_reconfigure.test ")
+set_tests_properties(_ctest_ddynamic_reconfigure_rostest_test_ddynamic_reconfigure.test PROPERTIES  _BACKTRACE_TRIPLES "/opt/ros/melodic/share/catkin/cmake/test/tests.cmake;160;add_test;/opt/ros/melodic/share/rostest/cmake/rostest-extras.cmake;52;catkin_run_tests_target;/opt/ros/melodic/share/rostest/cmake/rostest-extras.cmake;80;add_rostest;/opt/ros/melodic/share/rostest/cmake/rostest-extras.cmake;119;_add_rostest_google_test;/home/zb/catkin_ws_yolact/src/dynamic_reconfigure/CMakeLists.txt;53;add_rostest_gmock;/home/zb/catkin_ws_yolact/src/dynamic_reconfigure/CMakeLists.txt;0;")
